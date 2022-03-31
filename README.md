@@ -10,10 +10,10 @@ Pada tugas ini terdapat file jar (didalam folder 'build_result_jar') yang merupa
 1. Membuat 2 kelas dalam bentuk tabel database yaitu tabel Author (tb_author) dan tabel Buku (tb_buku) serta terintegrasi dengan database MySQL.
    >File database terdapat dalam folder SQL_database dengan nama file 'dbtp1'. 
 2. Komponen tiap tabel telah ditampilkan dalam bentuk tabel dengan menggunakan buttun 'Add' untuk mengganti tabel yang ingin ditampilkan
-   >Hasil terdapat pada video di poin 4
+   >Hasil terdapat pada video di poin 4 (0.00-0.10)
 3. Terdapat button Buku dan Author yang digunakan untuk melakukan input data, jika button diklik maka akan menampilkan jFrame yang berisi Form atribut kelas.
-   >Hasil terdapat pada video di poin 4
-4. Untuk melakukan update dan delete data pada tabel, tinggal klik data maka akan muncul Jframe yang berisi atribut data yang diklik. Ubah data lalu klik button Update untuk melakukan update data. Klik button delete untuk menghapus data.
+   >Hasil terdapat pada video di poin 4 (0.10-0.20)
+4. Untuk melakukan update dan delete data pada tabel, tinggal klik data maka akan muncul Jframe yang berisi atribut data yang diklik. Ubah data lalu klik button Update untuk melakukan update data. Klik button delete untuk menghapus data. (detik ke 20-selesai)
    >Berikut Video hasil pengerjaan poin 2, 3, dan 4.<br>
    
 
