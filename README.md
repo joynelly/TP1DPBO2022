@@ -14,8 +14,12 @@ Pada tugas ini terdapat file jar (didalam folder 'build_result_jar') yang merupa
 3. Terdapat button Buku dan Author yang digunakan untuk melakukan input data, jika button diklik maka akan menampilkan jFrame yang berisi Form atribut kelas.
    >Hasil terdapat pada video di poin 4
 4. Untuk melakukan update dan delete data pada tabel, tinggal klik data maka akan muncul Jframe yang berisi atribut data yang diklik. Ubah data lalu klik button Update untuk melakukan update data. Klik button delete untuk menghapus data.
-   >Berikut Video hasil pengerjaan poin 2, 3, dan 4.
-   >
+   >Berikut Video hasil pengerjaan poin 2, 3, dan 4.<br>
+   
+
+   https://user-images.githubusercontent.com/99189201/161145636-bf64d341-0b80-4e7d-8145-60a0b3216caf.mp4
+
+
 5. Melakukan add, update dan delete data pada tabel, akan dicontohkan menggunakan data pada tabel
    - Ketika button buku/author diklik maka akan muncul jFrame berisi form untuk menambahkan data. Klik Add untuk menambahkan data dan menutup jFrame. Klik add untuk refresh data pada tabel.<br>
      ![](assets_readme/add.gif)
